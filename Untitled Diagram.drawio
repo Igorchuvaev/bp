@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T16:40:25.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Kh8Cc2XvoUdueWAqE_yQ" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T16:50:43.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QxNpkgkyoE4xLbG9GGrv" version="14.8.1" type="github">
   <diagram id="tGuzUqEConZvT_8lHRct" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sN9csSHyB_V-aId-Lgve-9" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sN9csSHyB_V-aId-Lgve-8">
+        <mxCell id="sN9csSHyB_V-aId-Lgve-9" value="парящий" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sN9csSHyB_V-aId-Lgve-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -59,10 +59,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sN9csSHyB_V-aId-Lgve-11" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sN9csSHyB_V-aId-Lgve-10">
+        <mxCell id="sN9csSHyB_V-aId-Lgve-11" value="оценивающий" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sN9csSHyB_V-aId-Lgve-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sN9csSHyB_V-aId-Lgve-12" value="остаток сил &lt;br&gt;на охоту" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.8" y="60" relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN9csSHyB_V-aId-Lgve-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="680" as="sourcePoint" />
+            <mxPoint x="630" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN9csSHyB_V-aId-Lgve-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="680" as="sourcePoint" />
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN9csSHyB_V-aId-Lgve-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="680" as="sourcePoint" />
+            <mxPoint x="630" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN9csSHyB_V-aId-Lgve-19" value="скорость орла" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
