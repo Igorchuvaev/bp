@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T14:34:37.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Rww1y9JSnLRfDsGs3Snj" version="14.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-27T14:39:11.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eUnLcy5QbhoxWncOzj3s" version="14.8.1" type="github" pages="2">
   <diagram id="h5ZDWR_RAiT3dMpIxMez" name="А0">
     <mxGraphModel dx="1038" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lj7XlKhVyZBfHCmgRNDf" name="A1">
-    <mxGraphModel dx="2207" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="lqADNaVl4EDBkmdzIJdQ-0" />
         <mxCell id="lqADNaVl4EDBkmdzIJdQ-1" parent="lqADNaVl4EDBkmdzIJdQ-0" />
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yp0maZx61KKVg4qmjxtq-1" value="голодный орел" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="Yp0maZx61KKVg4qmjxtq-0">
+        <mxCell id="Yp0maZx61KKVg4qmjxtq-1" value="голодный орел" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=13;fontStyle=1" connectable="0" vertex="1" parent="Yp0maZx61KKVg4qmjxtq-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_49oVmfm856OcDhZgPX-0" value="голо" style="endArrow=classic;html=1;fontSize=18;" edge="1" parent="lqADNaVl4EDBkmdzIJdQ-1">
@@ -181,7 +181,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-_49oVmfm856OcDhZgPX-1" value="сытый орел" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=12;" connectable="0" vertex="1" parent="-_49oVmfm856OcDhZgPX-0">
+        <mxCell id="-_49oVmfm856OcDhZgPX-1" value="сытый орел" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;fontStyle=1" connectable="0" vertex="1" parent="-_49oVmfm856OcDhZgPX-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C2K4MvThxhnhUcwKYdW6-0" value="ск" style="endArrow=classic;html=1;fontSize=18;" edge="1" parent="lqADNaVl4EDBkmdzIJdQ-1">
@@ -444,7 +444,7 @@
         <mxCell id="7r8qpbQJSVniPnSBXR8F-12" value="A4" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="lqADNaVl4EDBkmdzIJdQ-1">
           <mxGeometry x="940" y="140" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="7r8qpbQJSVniPnSBXR8F-14" value="злой и голодный орел,&amp;nbsp;&lt;br&gt;озабоченный новым&lt;br&gt;поиском" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lqADNaVl4EDBkmdzIJdQ-1" target="Ff8zrszzXhZnrY6e9DHP-1">
+        <mxCell id="7r8qpbQJSVniPnSBXR8F-14" value="злой и голодный орел,&amp;nbsp;&lt;br&gt;озабоченный новым&lt;br&gt;поиском" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;entryX=0.008;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lqADNaVl4EDBkmdzIJdQ-1" target="Ff8zrszzXhZnrY6e9DHP-1">
           <mxGeometry x="0.0727" y="30" width="80" relative="1" as="geometry">
             <mxPoint x="960" y="120" as="sourcePoint" />
             <mxPoint x="330" y="160" as="targetPoint" />
@@ -452,7 +452,7 @@
               <mxPoint x="1040" y="120" />
               <mxPoint x="1040" />
               <mxPoint x="330" />
-              <mxPoint x="330" y="160" />
+              <mxPoint x="330" y="169" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
